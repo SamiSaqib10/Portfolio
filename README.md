@@ -42,7 +42,7 @@ The portfolio website is built using the following technologies:
 
 ## Deployment
 
-The portfolio website is deployed and can be accessed at [Deployed Portfolio Website]
+The portfolio website is deployed and can be accessed at [Deployed Portfolio Website] (https://samisaqib10.github.io/Portfolio/).
 
 ## Feedback and Contributions
 
